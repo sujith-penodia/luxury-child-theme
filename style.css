@@ -1,0 +1,32 @@
+/* 
+Theme Name:		 Brindle Tierra
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Brindle Tierra is a child theme of GeneratePress, created by ChildTheme-Generator.com
+Author:			 Sujith Sasidharan
+Author URI:		 http://childtheme-generator.com/
+GitHub Theme URI: https://github.com/sujith-penodia/luxury-child-theme
+GitHub Branch:    master
+Template:		 generatepress
+Version:		 1.0.1
+Text Domain:	 brindle-tierra
+*/
+
+
+/*
+    Add your custom styles here
+*/
+h2{
+    color:red!important;
+}
+body{
+	color: green!important;
+	font-size: 50px;
+	padding-top: 30px;
+}
+h2 a{
+	color: #dd3456;
+	font-weight: bold;
+}
+h3{
+	color: #342334;
+}
