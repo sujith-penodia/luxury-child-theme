@@ -15,18 +15,4 @@ Text Domain:	 brindle-tierra
 /*
     Add your custom styles here
 */
-h2{
-    color:red!important;
-}
-body{
-	color: green!important;
-	font-size: 50px;
-	padding-top: 30px;
-}
-h2 a{
-	color: #dd3456;
-	font-weight: bold;
-}
-h3{
-	color: #342334;
-}
+
